@@ -11,7 +11,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Ready-25D366.svg)](https://www.whatsapp.com/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-purple.svg)](#)
 
-**🏆 Advanced AI-Powered Space Knowledge Assistant | Bharatiya Antariksh Hackathon Winner**
+**🏆 Advanced AI-Powered Space Knowledge Assistant**
 
 *Revolutionary AI-powered knowledge retrieval system with holographic interface and real-time space data integration*
 
@@ -25,7 +25,7 @@
 
 **VAANI (Voice-Activated Autonomous Navigation Intelligence)** - The BrahmaBot is a cutting-edge AI assistant that provides comprehensive information retrieval from a sophisticated knowledge graph created from both static and dynamic content. 
 
-🎯 **Built for the Bharatiya Antariksh Hackathon**, VAANI has evolved into a production-ready system demonstrating advanced AI capabilities, real-time data integration, and multiple user interfaces.
+🎯 **Production-ready system** demonstrating advanced AI capabilities, real-time data integration, and multiple user interfaces.
 
 <div align="center">
 
@@ -758,7 +758,7 @@ query = "How many satellites did ISRO launch in 2023?"
 
 ## 👥 Team & Contributions
 
-Built with passion for space technology and AI innovation for the Bharatiya Antariksh hackathon. This project represents cutting-edge development in:
+Built with passion for space technology and AI innovation. This project represents cutting-edge development in:
 
 - **AI/ML Engineering**: Advanced NLP and knowledge graph processing
 - **Full-Stack Development**: Modern web technologies and APIs
@@ -842,9 +842,9 @@ GET  /api/system/twilio-status # Status check
 
 ## �️ Why VAANI Stands Out
 
-### 🏆 **Award-Winning Excellence**
+### 🏆 **Excellence in AI Development**
 
-*Built for the Bharatiya Antariksh Hackathon with production-grade quality*
+*Built with production-grade quality and cutting-edge technologies*
 
 </div>
 
@@ -926,7 +926,7 @@ GET  /api/system/twilio-status # Status check
 
 ### 🌟 **Built With Love For**
 
-**🏆 Bharatiya Antariksh Hackathon** • **🇮🇳 Indian Space Program** • **🌌 Space Enthusiasts** • **🤖 AI Innovation**
+**🇳 Indian Space Program** • **🌌 Space Enthusiasts** • **🤖 AI Innovation** • **🚀 Space Technology**
 
 ---
 
