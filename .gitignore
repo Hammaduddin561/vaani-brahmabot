@@ -1,0 +1,169 @@
+# VAANI - GitIgnore Configuration
+# Prevents sensitive files and unnecessary data from being uploaded to GitHub
+
+# ========================================
+# Environment & Secrets
+# ========================================
+.env
+.env.local
+.env.production
+.env.staging
+*.env
+secrets/
+config.json
+credentials.json
+
+# ========================================
+# Python Cache & Build
+# ========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ========================================
+# Virtual Environments
+# ========================================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.virtualenv/
+pipenv/
+poetry.lock
+
+# ========================================
+# IDEs & Editors
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# ========================================
+# Databases & Logs
+# ========================================
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+neo4j/
+data/
+db/
+
+# ========================================
+# Temporary Files
+# ========================================
+tmp/
+temp/
+.tmp/
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ========================================
+# OS Generated Files
+# ========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ========================================
+# Network & Security
+# ========================================
+ngrok
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# ========================================
+# VAANI Specific
+# ========================================
+# Exclude VAANI-specific sensitive files
+twilio_config.json
+neo4j_backup/
+space_data_cache/
+user_sessions/
+performance_logs/
+
+# Exclude large model files
+models/
+*.model
+*.pkl
+*.joblib
+
+# Exclude test artifacts
+test_output/
+coverage_html/
+.pytest/
+test_reports/
+
+# ========================================
+# Documentation Build
+# ========================================
+docs/_build/
+docs/dist/
+site/
+
+# ========================================
+# Package Managers
+# ========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# ========================================
+# Backup Files
+# ========================================
+*.bak
+*.backup
+*.old
+backup/
+backups/
+
+# ========================================
+# Performance & Monitoring
+# ========================================
+*.prof
+*.pyc
+memory_profiles/
+performance_data/
